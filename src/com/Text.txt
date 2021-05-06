@@ -1,0 +1,15 @@
+debut
+constante string b = "jkfdj" ;
+string a ;
+a = b + "fsffdf" ;
+
+int c ;
+int d;
+
+string i = "AZ" ;
+reel n=
+a = i + "e" ;
+c = 14 + 65 ;
+d = 4 - 3 ;
+
+fin
